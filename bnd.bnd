@@ -1,0 +1,6 @@
+-buildpath: org.jplayground.sort;version=latest,\
+	osgi.core
+Export-Package: org.jplayground.showcase,\
+	org.jplayground.showcase.sort
+Bundle-Version: 0.0.1
+Bundle-Activator: org.jplayground.showcase.Showcase
